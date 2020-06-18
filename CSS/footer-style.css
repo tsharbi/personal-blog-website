@@ -1,0 +1,12 @@
+footer {
+  grid-area: footer;
+  height: 30px;
+  color: slategrey;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.horizontal {
+  border: 0;
+  border-top: 4px solid;
+  margin: 20px 0;
+}
